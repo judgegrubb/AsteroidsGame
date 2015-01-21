@@ -34,7 +34,7 @@ and bonus options available in the game.
 If user types the key 'C' during the game (there are no hints towards this, since the cheat codes should be kept
 secret), it will bring up a dialog box in which the user can input cheat codes.
 
-Available cheat codes: (not case-sensitive)
+Available cheat codes (not case-sensitive):
 
 **SUPERMAN** - Makes ship invulnerable to small asteroids
 
