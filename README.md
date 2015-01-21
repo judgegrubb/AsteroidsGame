@@ -37,7 +37,11 @@ secret), it will bring up a dialog box in which the user can input cheat codes.
 Available cheat codes: (not case-sensitive)
 
 **SUPERMAN** - Makes ship invulnerable to small asteroids
+
 **CIVIL WAR** - Makes asteroids able to collide with each other and explode on impact
+
 **LEGOLAS** - Increases the available bullets to 40 (including shotgun, or circular, firing motion)
+
 **WOLVERINE** - Increases the lives count by 5
+
 **DOCTOR OCTOPUS** - Increases mine limit to 3
